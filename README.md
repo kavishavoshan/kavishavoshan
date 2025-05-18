@@ -8,7 +8,7 @@
   <img src="https://komarev.com/ghpvc/?username=DinuthRashmika&label=Profile%20views&color=0e75b6&style=flat" alt="Profile Views" />
 </p>
 
-- 🎓 I am a **Student** at [Faculty of Computing, SLIIT].  
+- 🎓 I am a **undergraduate** at [Faculty of Computing, SLIIT].  
 - 💻 I’m currently working as a **Associate Software Engineer** at **Bileeta Pvt Ltd**.  
 - 🌐 Ask me about **Web Development** and **Full-stack Projects**.  
 - 📚 I’m learning **Information Technology** and constantly exploring new technologies.  
